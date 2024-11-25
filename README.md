@@ -1,6 +1,7 @@
 # Flask MongoDB Kubernetes Deployment
 
 This project demonstrates the deployment of a Python Flask application integrated with MongoDB on a Kubernetes cluster using Minikube. The repository includes detailed instructions for building and pushing Docker images, Kubernetes configurations, DNS resolution, resource management, design choices, and testing scenarios.
+![WhatsApp Image 2024-11-26 at 02 59 54_a5539ef6](https://github.com/user-attachments/assets/e9bae5b2-ada3-47f4-8c8a-8f857ac8ee28)
 
 ## Overview
 
